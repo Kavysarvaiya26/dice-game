@@ -1,26 +1,3 @@
-// alert("helo");
-
-// function rollthedice() {
-
-//     var dice1 = math.floor(math.random() * 6) + 1;
-//     var dice2 = math.floor(math.random() * 6) + 1;
-//    var randomdiceimage = ("images/dice" + dice1 + ".png");
-
-//    var randomdiceimage = ("images/dice" + dice2 + ".png");
-
-//     if (dice1 > dice2) {
-//         document.querySelector(h1).innerHTML("player 1 wins")
-//     }
-//     else if (dice1 < dice2) {
-//         document.querySelector(h1).innerHTML("player 2 wins")
-//     }
-//     else {
-//         document.querySelector(h1).innerHTML("draw")
-//     }
-
-// }
-
-
 
 
 var randomNumber1 = Math.floor(Math.random() * 6) + 1;
